@@ -1,0 +1,13 @@
+{
+  "name": "rell-domain",
+  "version": "1.0.0",
+  "description": "The RELL compliance audit engine — architecture, philosophy, active modules, and development status.",
+  "author": "Chase-Key",
+  "license": "MIT (engine) + BSL (profiles + instances)",
+  "tags": ["rell", "compliance", "audit", "governance", "gdpr", "ccpa", "hipaa"],
+  "skillFile": "SKILL.md",
+  "category": "domain",
+  "loadPriority": 3,
+  "dependsOn": ["ck-identity", "aurelion-core"],
+  "notes": "Load when working in rell-eco. Describes the full RELL product family."
+}

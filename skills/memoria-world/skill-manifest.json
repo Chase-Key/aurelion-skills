@@ -1,0 +1,13 @@
+{
+  "name": "memoria-world",
+  "version": "1.0.0",
+  "description": "The Stonecrest world, the Darklight Chambers library, and the Memoria Engine.",
+  "author": "Chase-Key",
+  "license": "private",
+  "tags": ["stonecrest", "memoria", "world-building", "dnd", "darklight-chambers", "nexus-premium"],
+  "skillFile": "SKILL.md",
+  "category": "world",
+  "loadPriority": 3,
+  "dependsOn": ["ck-identity", "aurelion-core"],
+  "notes": "Load when working on Memoria Engine, NEXUS, or any world-building adjacent work."
+}

@@ -1,0 +1,24 @@
+{
+  "name": "aurelion-skills",
+  "version": "1.0.0",
+  "description": "The AURELION cognitive skill suite — structured thinking frameworks, knowledge architecture, and agentic reasoning templates for AI coding assistants.",
+  "author": {
+    "name": "Chase-Key",
+    "url": "https://github.com/Chase-Key"
+  },
+  "homepage": "https://github.com/Chase-Key/aurelion-skills",
+  "repository": "https://github.com/Chase-Key/aurelion-skills",
+  "license": "MIT",
+  "keywords": [
+    "aurelion",
+    "agentic-framework",
+    "knowledge-management",
+    "cognitive-architecture",
+    "agent-skills",
+    "ai-skills",
+    "cursor",
+    "claude-code",
+    "copilot",
+    "reasoning-templates"
+  ]
+}

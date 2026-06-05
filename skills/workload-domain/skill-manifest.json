@@ -1,0 +1,13 @@
+{
+  "name": "workload-domain",
+  "version": "1.0.0",
+  "description": "The workload tracker system — scoring engine, team operations, and the Josefina deployment.",
+  "author": "Chase-Key",
+  "license": "BSL",
+  "tags": ["workload", "tracker", "scoring", "team", "operations", "josefina"],
+  "skillFile": "SKILL.md",
+  "category": "domain",
+  "loadPriority": 4,
+  "dependsOn": ["ck-identity", "rell-domain"],
+  "notes": "Load when working on workload tracker features or the Josefina deployment."
+}

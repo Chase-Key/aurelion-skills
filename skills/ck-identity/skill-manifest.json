@@ -1,0 +1,12 @@
+{
+  "name": "ck-identity",
+  "version": "1.0.0",
+  "description": "Chase-Key's cognitive identity — who he is, how he thinks, and how to work with him effectively.",
+  "author": "Chase-Key",
+  "license": "private",
+  "tags": ["identity", "methodology", "personality", "collaboration", "ck"],
+  "skillFile": "SKILL.md",
+  "category": "identity",
+  "loadPriority": 1,
+  "notes": "Load this first. It sets the frame for all other skills."
+}

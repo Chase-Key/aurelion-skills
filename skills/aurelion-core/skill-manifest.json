@@ -1,0 +1,13 @@
+{
+  "name": "aurelion-core",
+  "version": "1.0.0",
+  "description": "The Aurelion cognitive architecture — five modules forming a complete autonomous agentic AI system.",
+  "author": "Chase-Key",
+  "license": "mixed (MIT + BSL by tier)",
+  "tags": ["aurelion", "architecture", "agentic", "kernel", "memory", "nexus", "advisor", "agent"],
+  "skillFile": "SKILL.md",
+  "category": "architecture",
+  "loadPriority": 2,
+  "dependsOn": ["ck-identity"],
+  "notes": "Load after ck-identity. This is the cognitive backbone of the ecosystem."
+}
